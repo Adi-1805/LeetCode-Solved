@@ -1,24 +1,24 @@
 class Solution {
 public:
     int reverse(int x) {
+        long long ans = 0;
+        int dig = 0;
         if(x<0){
-            string str = to_string(abs(x));
-            std::reverse(str.begin(),str.end());
-            str = "-"+ str;
-            stringstream ss;
-            ss << str;
-            int z = 0;
-            ss >> z;
-            if( z<INT_MAX && z>INT_MIN) return z; 
+            x = abs(x);
+            while(x>0){
+                dig = x%10;
+                ans =  ans*10 + dig;
+                x/=10; 
+            }
+            if( ans<INT_MAX && ans>INT_MIN) return -1*ans; 
             return 0;
         }
-        string str = to_string(x);
-        std::reverse(str.begin(),str.end());
-        stringstream ss;
-        ss << str;
-        int z = 0;
-        ss >> z;
-        if( z<INT_MAX && z>INT_MIN) return z; 
+        while(x>0){
+            dig = x%10;
+            ans =  ans*10 + dig;
+            x/=10; 
+        }
+        if( ans<INT_MAX && ans>INT_MIN) return ans; 
         return 0;
     }
 };
