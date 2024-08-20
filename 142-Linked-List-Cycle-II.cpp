@@ -9,12 +9,19 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        unordered_map<ListNode*, int> mp;
-        ListNode* temp = head;
-        while(temp != NULL and temp->next != NULL){
-            if (mp.find(temp) != mp.end()) return temp;
-            mp[temp] = 1;
-            temp = temp -> next;
+        ListNode* tortoise = head;
+        ListNode* hare = head;
+        while(hare != NULL and hare->next != NULL){
+            hare = (hare -> next) -> next;
+            tortoise = tortoise -> next;
+            if(hare == tortoise){
+                hare = head;
+                while(hare != tortoise){
+                    hare =  hare -> next;
+                    tortoise = tortoise -> next;
+                }
+                return hare;   
+            }
         }
         return NULL;
     }
