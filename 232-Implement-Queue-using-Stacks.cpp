@@ -1,16 +1,16 @@
 class MyQueue {
-public:
     stack<int> input, output;
-    MyQueue() {
-
-    }
-    
+public:
     void push(int x) {
+        // pop everything out of i/p stack and push in o/p stack
         while (!input.empty()) {
             output.push(input.top());
             input.pop();
         }
+        // push new element in i/p stack
         input.push(x);
+
+        // pop everything out of o/p stack and push in i/p stack so that the first added element is at the front(top) of i/p stack
         while (!output.empty()) {
             input.push(output.top());
             output.pop();
