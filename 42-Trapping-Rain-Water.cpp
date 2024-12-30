@@ -1,33 +1,29 @@
 class Solution {
 public:
-    vector<int> prefixMax(vector<int>& arr){
-        int n = arr.size();
-        vector<int> result(n,0);
-        result[0] = arr[0];
-        for(int i = 1; i < arr.size(); i++){
-            result[i] = max(result[i-1], arr[i]);
-        }
-        return result;
-    }
-    vector<int> suffixMax(vector<int>& arr){
-        int n = arr.size();
-        vector<int> result(n,0);
-        result[n-1] = arr[n-1];
-        for(int i = n-2; i >= 0; i--){
-            result[i] = max(result[i+1], arr[i]);
-        }
-        return result;
-    }
     int trap(vector<int>& height) {
         int n = height.size();
-        vector<int> leftMax = prefixMax(height);
-        vector<int> rightMax = suffixMax(height);
-        int totalArea = 0;
-        for(int i = 0; i < n; i++){
-            if(height[i] < leftMax[i] and height[i] < rightMax[i]){
-                totalArea += min(leftMax[i], rightMax[i]) - height[i];
+        int leftMax = 0, rightMax = 0, total = 0;
+        int l = 0, r = n-1;
+        while(l < r){
+            if(height[l] < height[r]){
+                if(leftMax > height[l]){
+                    total += leftMax - height[l];
+                }
+                else{
+                    leftMax = height[l];
+                }
+                l++;
+            }
+            else{
+                if(rightMax > height[r]){
+                    total += rightMax - height[r];
+                }
+                else{
+                    rightMax = height[r];
+                }
+                r--;
             }
         }
-        return totalArea;
+        return total;
     }
 };
