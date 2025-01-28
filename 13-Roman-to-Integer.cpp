@@ -6,7 +6,7 @@ public:
 
         int result = 0;
         for(int i = 0; i < s.size(); i++){
-            if( roman[s[i]] < roman[s[i+1]]) result -= roman[s[i]];
+            if( i+1 < s.size() && roman[s[i]] < roman[s[i+1]]) result -= roman[s[i]];
             else result += roman[s[i]];
         }
         return result;
