@@ -37,7 +37,7 @@ public:
         TreeNode* startNode = NULL; findTarget(root, start, startNode);
 
         // Start traversing in all direction from the startNode
-        int cur_dist = 0;
+        int cur_dist = 0; 
         unordered_map<TreeNode*, int> vis; 
         q.push(startNode); vis[startNode] = 1;
         while(!q.empty()){
@@ -56,6 +56,6 @@ public:
                 }
             }
         }
-        return --cur_dist;
+        return --cur_dist; // -- because we're counting the start node too
     }
 };
