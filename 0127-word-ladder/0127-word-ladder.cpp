@@ -8,6 +8,7 @@ public:
         queue<pair<string, int>> q;
         unordered_set<string> st(wordList.begin(), wordList.end()); 
         q.push({beginWord, 1});
+        st.erase(beginWord);
 
         if(st.find(endWord) == st.end()) return 0;
 
