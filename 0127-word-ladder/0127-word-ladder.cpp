@@ -7,11 +7,7 @@ public:
 
         queue<pair<string, int>> q;
         set<string> st(wordList.begin(), wordList.end()); 
-        if(st.find(beginWord) != st.end()){
-            q.push({beginWord, 1});
-            st.erase(beginWord);
-        }   
-        else  q.push({beginWord, 1});
+        q.push({beginWord, 1});
 
         if(st.find(endWord) == st.end()) return 0;
 
