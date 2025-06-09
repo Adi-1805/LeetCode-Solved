@@ -6,7 +6,7 @@ public:
         */
 
         queue<pair<string, int>> q;
-        set<string> st(wordList.begin(), wordList.end()); 
+        unordered_set<string> st(wordList.begin(), wordList.end()); 
         q.push({beginWord, 1});
 
         if(st.find(endWord) == st.end()) return 0;
