@@ -10,17 +10,12 @@
  * };
  */
 class Solution {
-    vector<int> in;
-    void inorder(TreeNode* root){
-        if(!root) return ;
-        inorder(root->left);
-        in.push_back(root->val);
-        inorder(root->right);
+    bool check(TreeNode* root, long minVal, long maxVal){
+        if(!root) return 1;
+        return (root->val > minVal and root->val < maxVal and check(root->left, minVal, root->val) and check(root->right, root->val, maxVal));
     }
 public:
     bool isValidBST(TreeNode* root) {
-        inorder(root);
-        set<int> st(in.begin(), in.end());
-        return is_sorted(in.begin(), in.end()) and (in.size() == st.size());
+        return check(root, LONG_MIN, LONG_MAX);
     }
 };
