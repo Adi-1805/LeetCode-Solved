@@ -9,18 +9,18 @@
  */
 
 class Solution {
-    TreeNode* LCA(TreeNode* root, TreeNode* p, TreeNode* q) {
+    TreeNode* firstNodeInTheRange(TreeNode* root, int minVal, int maxVal) {
         if(!root) return root;
-        if(root->val < p->val and root->val < q->val){
-            return LCA(root->right, p, q);
+        if(root->val < minVal and root->val < maxVal){
+            return firstNodeInTheRange(root->right, minVal, maxVal);
         }
-        if(root->val > p->val and root->val > q->val){
-            return LCA(root->left, p, q);
+        if(root->val > minVal and root->val > maxVal){
+            return firstNodeInTheRange(root->left, minVal, maxVal);
         }
         return root;
     }
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        return LCA(root, p, q);
+        return firstNodeInTheRange(root, p->val, q->val);
     }
 };
