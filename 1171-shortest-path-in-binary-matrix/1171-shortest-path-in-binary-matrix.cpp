@@ -5,8 +5,9 @@ public:
     int shortestPathBinaryMatrix(vector<vector<int>>& grid) {
         int m = grid.size();
         int n = grid[0].size();
-
-        if(grid[0][0] == 1) return -1;
+        // if the source or the destination cell value is 1 then we cannot start or reach respectively (the )
+        // checking src cell is necessary, the destination cell will be dealt by the code 
+        if(grid[0][0] == 1 or grid[n-1][n-1] == 1) return -1;
 
         vector<vector<int>> dist(m, vector<int>(n,INT_MAX));
         dist[0][0] = 0;
