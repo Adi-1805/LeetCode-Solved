@@ -12,19 +12,21 @@ public:
         vector<vector<int>> dist(m, vector<int>(n,INT_MAX));
         dist[0][0] = 0;
 
-        priority_queue< pair<int, pair<int, int>>, vector< pair<int, pair<int, int>> >, greater< pair<int, pair<int, int>>> > pq;
-        pq.push({1, {0, 0}});
+        set<pair<int, pair<int, int>>> st;
+        st.insert({1, {0, 0}});
 
-        while(!pq.empty()){
-            auto curDist = pq.top().first;
-            auto [row, col] = pq.top().second;
-            pq.pop();
+        while(!st.empty()){
+            auto element = *(st.begin());
+            auto curDist = element.first;
+            auto [row, col] = element.second;
+            st.erase(element);
             for(int i = 0; i < 8; i++){
                 int x = row + drow[i];
                 int y = col + dcol[i];
                 if(x >= 0 and x < m and y >= 0 and y < n and grid[x][y] == 0 and curDist + 1 < dist[x][y]){
+                    st.erase({dist[x][y], {x, y}});
                     dist[x][y] = curDist+1;
-                    pq.push({dist[x][y], {x, y}});
+                    st.insert({dist[x][y], {x, y}});
                 }
             }
             if(row == n-1 and col == n-1) return curDist;
