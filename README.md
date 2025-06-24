@@ -147,6 +147,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0124-binary-tree-maximum-path-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## String
 |  |
 | ------- |
@@ -187,6 +188,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0744-network-delay-time](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Array
 |  |
 | ------- |
@@ -213,6 +215,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -253,4 +256,5 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0744-network-delay-time](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
