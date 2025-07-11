@@ -19,6 +19,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0145-binary-tree-postorder-traversal](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0173-binary-search-tree-iterator) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2470-removing-stars-from-a-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2470-removing-stars-from-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -168,6 +169,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0022-generate-parentheses](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0257-binary-tree-paths) |
+| [2470-removing-stars-from-a-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2470-removing-stars-from-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -300,4 +302,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0062-unique-paths) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
