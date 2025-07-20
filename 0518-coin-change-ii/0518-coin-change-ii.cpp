@@ -1,19 +1,22 @@
+#define ull unsigned long long int
 class Solution {
-    int solve(int ind, int amt, vector<int>& coins, vector<vector<int>>& dp){
-        if(ind == 0){
-            if(amt % coins[ind] == 0) return 1;
-            else return 0;
-        }
-        if(dp[ind][amt] != -1) return dp[ind][amt];
-
-        int not_take = solve(ind-1, amt, coins, dp), take = 0;
-        if(coins[ind] <= amt) take = solve(ind, amt - coins[ind], coins, dp);
-        return dp[ind][amt] = not_take + take;
-    }
+    // Here tabulation will give TLE but the memoization won't because during (recursion+) memoization we do not calculate every state but in tabulation we do. Hence this is one of those situations where calculating all the states in a tabulation gives a TLE.
 public:
     int change(int amount, vector<int>& coins) {
         int n = coins.size();
-        vector<vector<int>> dp(n, vector<int>(amount+1, -1));
-        return solve(n-1, amount, coins, dp);
+        vector<vector<ull>> dp(n, vector<ull>(amount+1, 0));
+        for(int amt = 0; amt <= amount; amt++){
+            if(amt % coins[0]) dp[0][amt] = 0;
+            else dp[0][amt] = 1;
+        }
+
+        for(int ind = 1; ind < n; ind++){
+            for(int amt = 0; amt <= amount; amt++){
+                ull not_take = dp[ind-1][amt], take = 0;
+                if(coins[ind] <= amt) take = dp[ind][amt - coins[ind]];
+                dp[ind][amt] = not_take + take;
+            }
+        }
+        return dp[n-1][amount];
     }
 };
