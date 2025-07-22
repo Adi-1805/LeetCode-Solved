@@ -198,6 +198,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1813-maximum-erasure-value](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1813-maximum-erasure-value) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Union Find
 |  |
@@ -237,6 +238,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1073-number-of-enclaves](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1753-path-with-minimum-effort) |
+| [1813-maximum-erasure-value](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1813-maximum-erasure-value) |
 ## Matrix
 |  |
 | ------- |
@@ -317,4 +319,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2470-removing-stars-from-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [1813-maximum-erasure-value](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1813-maximum-erasure-value) |
 <!---LeetCode Topics End-->
