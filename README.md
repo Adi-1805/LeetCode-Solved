@@ -172,6 +172,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0542-01-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1250-longest-common-subsequence](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## String
 |  |
@@ -182,6 +183,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0516-longest-palindromic-subsequence](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2470-removing-stars-from-a-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2470-removing-stars-from-a-string) |
 ## Backtracking
