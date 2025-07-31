@@ -172,6 +172,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0542-01-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0583-delete-operation-for-two-strings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1170-shortest-common-supersequence](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -205,6 +206,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0222-count-complete-tree-nodes) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Hash Table
@@ -251,6 +253,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0542-01-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0733-flood-fill) |
 | [0932-monotonic-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0932-monotonic-array) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1036-rotting-oranges](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1073-number-of-enclaves) |
