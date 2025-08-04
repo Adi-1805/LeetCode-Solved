@@ -164,6 +164,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0115-distinct-subsequences](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0213-house-robber-ii) |
@@ -251,6 +252,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0064-minimum-path-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0213-house-robber-ii) |
@@ -367,6 +369,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0044-wildcard-matching) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2689-rearranging-fruits](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2689-rearranging-fruits) |
