@@ -1,22 +1,22 @@
 class Solution {
-    int n;
-    vector<vector<int>> dp;
-    long f(vector<int>& arr ,int ind, bool buy){
-        if(ind == n) return 0;
-        if(dp[ind][buy] != -1) return dp[ind][buy];
-        
-        long profit = -1e9;
-        if(buy){
-            profit = max( -arr[ind] + f(arr, ind+1, 0), 0 + f(arr, ind+1, 1));
-        }else{
-            profit = max( arr[ind] + f(arr, ind+1, 1), 0 + f(arr, ind+1, 0));
-        }
-        return dp[ind][buy] = profit;
-    }
 public:
-    int maxProfit(vector<int>& prices) {
-        n = prices.size();
-        dp.resize(n, vector<int>(2, -1));
-        return f(prices, 0, 1);
+    int maxProfit(vector<int>& arr) {
+        int n = arr.size();
+        vector<vector<int>> dp(n+1, vector<int>(2, 0));
+        // return f(prices, 0, 1);
+
+        for(int ind = n-1; ind >= 0; ind--){
+            for(int buy = 0; buy < 2; buy++){
+                long profit = -1e9;
+                if(buy){
+                    profit = max( -arr[ind] + dp[ind+1][0] , 0 + dp[ind+1][1] );
+                }else{
+                    profit = max( arr[ind] + dp[ind+1][1] , 0 + dp[ind+1][0] );
+                }
+                dp[ind][buy] = profit; 
+            }
+        }
+
+        return dp[0][1];
     }
 };
