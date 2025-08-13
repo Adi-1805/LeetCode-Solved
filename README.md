@@ -358,6 +358,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0062-unique-paths](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0900-reordered-power-of-2) |
 ## Memoization
@@ -419,6 +420,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0044-wildcard-matching](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0326-power-of-three) |
 ## Ordered Set
 |  |
 | ------- |
