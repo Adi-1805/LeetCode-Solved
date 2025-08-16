@@ -364,6 +364,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0342-power-of-four](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0900-reordered-power-of-2) |
+| [1448-maximum-69-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1448-maximum-69-number) |
 ## Memoization
 |  |
 | ------- |
@@ -394,6 +395,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0044-wildcard-matching](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1448-maximum-69-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1448-maximum-69-number) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2689-rearranging-fruits](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2689-rearranging-fruits) |
