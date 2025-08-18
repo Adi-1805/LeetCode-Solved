@@ -209,6 +209,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0022-generate-parentheses](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0679-24-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -274,6 +275,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0494-target-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0542-01-matrix) |
+| [0679-24-game](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0679-24-game) |
 | [0733-flood-fill](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0733-flood-fill) |
 | [0932-monotonic-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0932-monotonic-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -363,6 +365,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0231-power-of-two](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0900-reordered-power-of-2) |
