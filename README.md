@@ -290,6 +290,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2689-rearranging-fruits) |
@@ -371,6 +372,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0900-reordered-power-of-2](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1448-maximum-69-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Memoization
 |  |
 | ------- |
