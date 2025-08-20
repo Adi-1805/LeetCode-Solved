@@ -182,6 +182,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0934-bitwise-ors-of-subarrays](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1170-shortest-common-supersequence](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1250-longest-common-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -284,6 +285,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1753-path-with-minimum-effort](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1813-maximum-erasure-value) |
@@ -309,6 +311,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1036-rotting-oranges](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1753-path-with-minimum-effort) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Topological Sort
