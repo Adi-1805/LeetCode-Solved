@@ -12,12 +12,6 @@
 class Solution {
 public:
     bool checkTree(TreeNode* root) {
-        if(root == NULL) return 1;
-        if(!root->left and !root->right) return 1;
-        int sum = 0;
-        if(root->left) sum+= root->left->val;
-        if(root->right) sum+= root->right->val;
-
-        return (sum == root->val and checkTree(root->left) and checkTree(root->right));
+        return (root->val == root->right->val + root->left->val);
     }
 };
