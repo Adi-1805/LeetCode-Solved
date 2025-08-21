@@ -152,6 +152,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1171-shortest-path-in-binary-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1753-path-with-minimum-effort) |
+| [1876-map-of-highest-peak](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1876-map-of-highest-peak) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2793-count-the-number-of-complete-components](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2793-count-the-number-of-complete-components) |
 ## Dynamic Programming
@@ -293,6 +294,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1753-path-with-minimum-effort](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1813-maximum-erasure-value) |
+| [1876-map-of-highest-peak](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1876-map-of-highest-peak) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -317,6 +319,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1171-shortest-path-in-binary-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1753-path-with-minimum-effort) |
+| [1876-map-of-highest-peak](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1876-map-of-highest-peak) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Topological Sort
 |  |
