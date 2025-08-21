@@ -1,28 +1,33 @@
 class Solution {
-    int drow[4] = {-1, 0, 1, 0};
-    int dcol[4] = {0, 1, 0, -1};
+    int dx[4] = {0, 0, -1, 1};
+    int dy[4] = {-1, 1, 0, 0};
 public:
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
-        int m = image.size();
-        int n = image[0].size();
-        queue<pair<int, int>> q;
-        q.push({sr, sc});
+        int n = image.size();
+        int m = image[0].size();
+        vector<vector<int>> ans = image;
+
         int initColor = image[sr][sc];
-        vector<vector<int>> vis = image;
+    
+        vector<vector<int>> vis(n, vector<int>(m, 0));
+        queue<pair<int, int>> q;
+        q.push({sr, sc}); 
+        vis[sr][sc] = 1;
+        ans[sr][sc] = color;
+
         while(!q.empty()){
-            auto r = q.front().first;
-            auto c = q.front().second;
+            auto [r, c] = q.front();
             q.pop();
-            vis[sr][sc] = color;
+
             for(int i = 0; i < 4; i++){
-                auto x = r + drow[i];
-                auto y = c + dcol[i];
-                if(x >= 0 and x < m and y >= 0 and y < n and vis[x][y] != color and image[x][y] == initColor){
-                    vis[x][y] = color; 
-                    q.push({x, y});
+                auto nr =  r + dx[i]; auto nc = c + dy[i];
+                if(nr >= 0 and nr < n and nc >= 0 and nr < m and image[nr][nc] == initColor and !vis[nr][nc]){
+                    vis[nr][nc] = 1; q.push({nr, nc});
+                    ans[nr][nc] = color;
                 }
             }
         }
-        return vis;
+
+        return ans;
     }
 };
