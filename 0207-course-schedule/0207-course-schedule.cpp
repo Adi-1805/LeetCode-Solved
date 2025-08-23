@@ -1,32 +1,39 @@
 class Solution {
-     bool dfs(int node, vector<vector<int>>& adj, vector<bool>& vis, vector<bool>& pathVis){
-        vis[node] = 1; pathVis[node] = 1;
-        for(auto next: adj[node]){
-            if(!vis[next]){
-                if(dfs(next, adj, vis, pathVis) == true) return true; // we found a cycle
-            }else{
-                if(pathVis[next]) return true;
+    bool DFScheck(int node, vector<vector<int>>& adjacencyList, vector<int>& visited, vector<int>& pathVisited){
+        /* DFScheck function:
+            Traverses graph using recursion and returns true if a cycle is detected in the graph, else return false;
+        */
+        visited[node] = 1;
+        pathVisited[node] = 1;
+        for(int nextNode: adjacencyList[node]){
+            if(!visited[nextNode]){
+                if(DFScheck(nextNode, adjacencyList, visited, pathVisited)) return true;
             }
+            else if(pathVisited[nextNode]) return true;
         }
-        pathVis[node] = 0;
+
+        pathVisited[node] = 0;
 
         return false;
     }
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>> adj(numCourses);
-        for(auto& vec: prerequisites){
-            adj[vec[1]].push_back(vec[0]); 
+        // Graph simulation of the problem
+        // Each course is a node 
+        vector<vector<int>> adjacencyList(numCourses);
+        for(auto pair: prerequisites){
+            adjacencyList[pair[1]].push_back(pair[0]);
         }
 
-        vector<bool> vis(numCourses,0);
-        vector<bool> pathVis(numCourses,0);
+        vector<int> visited(numCourses, 0);
+        vector<int> pathVisited(numCourses, 0);
 
-        for(int i = 0; i < numCourses; i++){
-            if(!vis[i]){
-                if(dfs(i, adj, vis, pathVis) == true) return false; // we found a cycle
+        for(int course = 0; course < numCourses; course++){
+            if(!visited[course]){
+                if(DFScheck(course, adjacencyList, visited, pathVisited)) return false;
             }
         }
+
         return true;
     }
 };
