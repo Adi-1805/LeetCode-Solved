@@ -10,44 +10,53 @@
  * };
  */
 class Solution {
-    TreeNode* solve(TreeNode* root){
-        if(!root->left) return root;
-        return solve(root->left);
-    }
-    TreeNode* helper(TreeNode* root){
-        if(!root) return nullptr;
+    TreeNode* joinerFunction(TreeNode* root){
         if(root->left == NULL){
-            return root->right;
+            return root -> right;
         }
         else if(root->right == NULL){
-            return root->left;
+            return root -> left;
         }
-        TreeNode* leftSub = root->left;
-        TreeNode* rightSubKaLeftestNode = solve(root->right);
-        rightSubKaLeftestNode -> left = leftSub;
-        return root->right;
+
+        TreeNode* rightmostChildOfLeftSubtree = NULL;
+        TreeNode* temp = root->left;
+        while(temp){
+            rightmostChildOfLeftSubtree = temp;
+            temp = temp -> right;
+        }
+
+        rightmostChildOfLeftSubtree->right = root -> right;
+        return root -> left;
     }
 public:
     TreeNode* deleteNode(TreeNode* root, int key) {
-        if(!root) return nullptr;
-        if(root->val == key) return helper(root);
+        if(!root) return NULL;
+        if(root -> val == key){
+            return joinerFunction(root);
+        }
+
         TreeNode* temp = root;
         while(temp){
-            if(temp->val < key){
-                if(temp->right and temp->right->val == key){
-                    temp -> right = helper(temp->right);
+            if(temp->val > key){
+                if(temp->left and temp->left->val == key){
+                    temp -> left = joinerFunction(temp->left);
                     break;
                 }
-                temp = temp -> right;
+                else{
+                    temp = temp -> left;
+                }
             }
             else{
-                if(temp->left and temp->left->val == key){
-                    temp -> left = helper(temp->left);
+                if(temp->right and temp->right->val == key){
+                    temp -> right = joinerFunction(temp->right);
                     break;
                 }
-                temp = temp -> left;
+                else{
+                    temp = temp -> right;
+                }
             }
         }
+
         return root;
     }
 };
