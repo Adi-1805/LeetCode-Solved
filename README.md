@@ -76,6 +76,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0257-binary-tree-paths) |
+| [0310-minimum-height-trees](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0310-minimum-height-trees) |
 | [0543-diameter-of-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -139,6 +140,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0207-course-schedule](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0226-invert-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0547-number-of-provinces) |
@@ -263,6 +265,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0207-course-schedule](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0801-is-graph-bipartite) |
@@ -333,6 +336,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0207-course-schedule](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Binary Search Tree
