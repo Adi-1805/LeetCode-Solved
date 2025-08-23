@@ -33,6 +33,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0145-binary-tree-postorder-traversal) |
@@ -66,6 +67,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0101-symmetric-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0144-binary-tree-preorder-traversal) |
@@ -108,6 +110,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0145-binary-tree-postorder-traversal) |
@@ -222,6 +225,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0022-generate-parentheses) |
+| [0113-path-sum-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0679-24-game) |
