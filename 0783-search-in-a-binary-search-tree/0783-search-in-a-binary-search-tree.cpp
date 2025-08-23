@@ -1,5 +1,5 @@
 /**
- * Definition for a binary tree node->
+ * Definition for a binary tree node.
  * struct TreeNode {
  *     int val;
  *     TreeNode *left;
@@ -12,15 +12,11 @@
 class Solution {
 public:
     TreeNode* searchBST(TreeNode* root, int val) {
-        if(!root) return nullptr;
-        TreeNode* temp = root;
-        while(temp){
-            if(temp->val == val) return temp;
-            else if(temp->val < val){
-                temp = temp->right;
-            }
-            else temp = temp->left;
+       if(!root) return nullptr;
+        if(root->val == val){
+            return root;
         }
-        return nullptr;
+        else if(root->val < val) return searchBST(root->right, val);
+        else return searchBST(root->left, val);
     }
 };
