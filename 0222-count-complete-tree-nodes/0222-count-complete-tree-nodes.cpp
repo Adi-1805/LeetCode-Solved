@@ -9,23 +9,32 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-#define ull unsigned long long
 class Solution {
+    int getLeftHeight(TreeNode* root){
+        int height = 0;
+        while(root){
+            height++;
+            root = root -> left;
+        }
+        return height;
+    }
+    int getRightHeight(TreeNode* root){
+        int height = 0;
+        while(root){
+            height++;
+            root = root -> right;
+        }
+        return height;
+    }
 public:
     int countNodes(TreeNode* root) {
-        if(root == NULL) return 0;
-        int nodeCnt = 0;
         if(!root) return 0;
-        queue<TreeNode*> q; q.push(root); // Stores node and its index
-        while(!q.empty()){
-            int n = q.size();
-            while(n--){
-                auto curr = q.front();
-                q.pop(); nodeCnt++;
-                if(curr->left) q.push(curr->left);
-                if(curr->right) q.push(curr->right);
-            }
-        }
-        return nodeCnt;    
+
+        int lHt = getLeftHeight(root);
+        int rHt = getRightHeight(root);
+
+        if(lHt == rHt) return (1<<lHt) -1;
+
+        return 1 + countNodes(root->right) + countNodes(root->left);
     }
 };
