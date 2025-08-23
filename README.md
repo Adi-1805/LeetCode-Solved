@@ -211,6 +211,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2470-removing-stars-from-a-string) |
 ## Backtracking
@@ -247,6 +248,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0940-fruit-into-baskets](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1813-maximum-erasure-value](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1813-maximum-erasure-value) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2689-rearranging-fruits](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -305,6 +307,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1753-path-with-minimum-effort](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1813-maximum-erasure-value) |
 | [1876-map-of-highest-peak](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1876-map-of-highest-peak) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2400-minimum-score-after-removals-on-a-tree) |
