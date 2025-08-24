@@ -10,32 +10,23 @@
  * };
  */
 class Solution {
-    vector<vector<int>> ans;
-    vector<int> temp;
-    void getPath(TreeNode* root){
+    vector<string> result;
+    void DFS(TreeNode* root, string path){
         if(!root) return;
-        temp.push_back(root->val);
         if(!root->left and !root->right){
-            ans.push_back(temp);
+            path = path + to_string(root->val);
+            result.push_back(path);
+            path.clear();
+            return;
         }
-        getPath(root->left);
-        getPath(root->right);
-        temp.pop_back();
+
+        DFS(root->left, path + to_string(root->val) + "->");
+        DFS(root->right, path + to_string(root->val) + "->");
     }
 public:
     vector<string> binaryTreePaths(TreeNode* root) {
-        getPath(root);
-        vector<string> arr;
-        for(auto vec: ans){
-            string s = "";
-            for(int val: vec){
-                s += to_string(val);
-                s += "->";
-            }
-            s.pop_back(); 
-            s.pop_back(); 
-            arr.push_back(s);
-        }
-        return arr;
+        string path = "";
+        DFS(root, path);
+        return result;
     }
 };
