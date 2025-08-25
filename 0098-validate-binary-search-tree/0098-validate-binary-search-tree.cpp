@@ -10,12 +10,13 @@
  * };
  */
 class Solution {
-    bool check(TreeNode* root, long minVal, long maxVal){
-        if(!root) return 1;
-        return (root->val > minVal and root->val < maxVal and check(root->left, minVal, root->val) and check(root->right, root->val, maxVal));
+    bool checkValidBST(TreeNode* root, long long int minVal, long long int maxVal){
+        if(!root) return true;
+        return checkValidBST(root->left, minVal, root->val) and checkValidBST(root->right, root->val, maxVal) and (minVal < root->val and root->val < maxVal);
+        
     }
 public:
     bool isValidBST(TreeNode* root) {
-        return check(root, LONG_MIN, LONG_MAX);
+        return checkValidBST(root, LLONG_MIN, LLONG_MAX);
     }
 };
