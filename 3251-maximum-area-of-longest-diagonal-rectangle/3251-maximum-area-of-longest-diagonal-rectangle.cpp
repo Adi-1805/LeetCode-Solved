@@ -1,15 +1,14 @@
 class Solution {
 public:
     int areaOfMaxDiagonal(vector<vector<int>>& dimensions) {
-        int maxArea = (INT_MIN), area = 0; 
+        int maxArea = 0, area = 0;
         double longestDiagonal = -1.0;
         for(auto& r: dimensions){
             int x = r[0], y = r[1];
-            if(longestDiagonal < (x*1.0*x + y*1.0*y)){
-                maxArea = x*y;
-                longestDiagonal = (x*1.0*x*1.0 + y*1.0*y*1.0);
-            }else if(longestDiagonal == (x*1.0*x + y*1.0*y)){
-                maxArea = max(maxArea, x*y);
+            area = x*y;
+            if( longestDiagonal < (x*1.0*x + y*1.0*y) || (longestDiagonal == x*1.0*x + y*1.0*y and area > maxArea) ){
+                maxArea = area;
+                longestDiagonal = (x*1.0*x + y*1.0*y);
             }
         }
         return maxArea;
