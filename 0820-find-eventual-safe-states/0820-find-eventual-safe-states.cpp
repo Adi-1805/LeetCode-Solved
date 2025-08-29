@@ -1,39 +1,27 @@
 class Solution {
+    vector<int> topoSort;
+    bool cycleDetectWithDfs(int node, vector<vector<int>>& graph, vector<bool>& visited, vector<bool>& pathVis){
+        visited[node] = 1;
+        pathVis[node] = 1;
+        for(int next: graph[node]){
+            if(!visited[next]){
+                if(cycleDetectWithDfs(next, graph, visited, pathVis)) return true;
+            }else if(pathVis[next]){
+                return true;
+            }
+        }
+        topoSort.push_back(node);
+        pathVis[node] = 0;
+        return false;
+    }
 public:
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
-        int n = graph.size();
-        vector<vector<int>> adj(n);
-        for(int i = 0; i < n; i++){
-            for(int node: graph[i]){
-                adj[node].push_back(i);
-            }
+        int V = graph.size();
+        vector<bool> visited(V, 0), pathVis(V, 0);
+        for(int i = 0; i < V; i++){
+            if(!visited[i]) cycleDetectWithDfs(i, graph, visited, pathVis); 
         }
-  
-        vector<int> indegree(n,0);
-        queue<int> q;
-        vector<int> topo;
-
-        for(int i = 0; i < n; i++){
-            for(int node: adj[i]){
-                indegree[node]++;
-            }
-        }
-
-        for(int i = 0; i < n; i++){
-            if(indegree[i] == 0) q.push(i);
-        }
-
-        while(!q.empty()){
-            auto node = q.front();
-            q.pop();
-            topo.push_back(node);
-            for(auto next: adj[node]){
-                indegree[next]--;
-                if(indegree[next] == 0) q.push(next);
-            }
-        }
-
-        sort(topo.begin(), topo.end());
-        return topo;
+        sort(topoSort.begin(), topoSort.end());
+        return topoSort;
     }
 };
