@@ -11,8 +11,8 @@ public:
             if(str == endWord) return len;
             q.pop();
             for(int i = 0; i < str.size(); i++){
+                string newS = str; // making changes to a temp string so that the orig string remains intact
                 for(int j = 0; j < 26; j++){
-                    string newS = str;
                     newS[i] = char('a'+j);
                     if(words.count(newS) != 0){
                         q.push({newS, len+1});
