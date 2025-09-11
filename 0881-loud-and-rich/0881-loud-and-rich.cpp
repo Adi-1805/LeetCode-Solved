@@ -2,9 +2,10 @@ class Solution {
 public:
     vector<int> loudAndRich(vector<vector<int>>& richer, vector<int>& quiet) {
         int v = quiet.size();
-        vector<int> ans(v, INT_MAX);
+        vector<int> ans(v, 0);
         vector<vector<int>> adj(v);
         vector<int> indeg(v, 0);
+        vector<int> topo;
 
         for(auto pair: richer){
             int u = pair[0], v = pair[1];
@@ -21,12 +22,13 @@ public:
         while(!q.empty()){
             auto node = q.front();
             q.pop();
+            topo.push_back(node);
             for(int next: adj[node]){
-                if(ans[next] == INT_MAX || quiet[ans[node]] < quiet[ans[next]]) ans[next] = ans[node];
+                if(quiet[ans[node]] < quiet[ans[next]]) ans[next] = ans[node];
                 if(--indeg[next] == 0) q.push(next);
             }
         }
-
+        for(int val: topo) cout << val << " ";
         return ans;
     }
 };
