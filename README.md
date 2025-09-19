@@ -241,6 +241,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2470-removing-stars-from-a-string) |
+| [3797-design-spreadsheet](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
 |  |
@@ -285,6 +286,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2689-rearranging-fruits](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Union Find
 |  |
@@ -364,6 +366,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3791-fruits-into-baskets-iii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3797-design-spreadsheet) |
 ## Matrix
 |  |
 | ------- |
@@ -381,6 +384,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1876-map-of-highest-peak](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1876-map-of-highest-peak) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3797-design-spreadsheet) |
 ## Topological Sort
 |  |
 | ------- |
@@ -411,6 +415,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0173-binary-search-tree-iterator) |
+| [3797-design-spreadsheet](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3797-design-spreadsheet) |
 ## Iterator
 |  |
 | ------- |
