@@ -285,6 +285,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2689-rearranging-fruits](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2689-rearranging-fruits) |
+| [3678-design-task-manager](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -415,6 +416,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0173-binary-search-tree-iterator) |
+| [3678-design-task-manager](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3797-design-spreadsheet) |
 ## Iterator
 |  |
@@ -430,6 +432,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0744-network-delay-time](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1753-path-with-minimum-effort) |
+| [3678-design-task-manager](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3678-design-task-manager) |
 ## Shortest Path
 |  |
 | ------- |
@@ -526,6 +529,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Ordered Set
 |  |
 | ------- |
+| [3678-design-task-manager](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3678-design-task-manager) |
 | [3791-fruits-into-baskets-iii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3791-fruits-into-baskets-iii) |
 ## Probability and Statistics
 |  |
