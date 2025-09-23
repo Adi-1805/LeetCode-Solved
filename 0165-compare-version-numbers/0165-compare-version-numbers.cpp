@@ -18,9 +18,6 @@ public:
         if(sz1 > sz2) for(int i = 0; i < abs(sz2-sz1); i++) v2.push_back("0");
         else for(int i = 0; i < abs(sz2-sz1); i++) v1.push_back("0");
         
-        for(string val: v1) cout << val << " "; cout << endl;
-        for(string val: v2) cout << val << " "; cout << endl;
-
         for(int i = 0; i < v1.size(); i++){
             // converting string to integer and then comparing
             stringstream ss1(v1[i]), ss2(v2[i]); int num1 = 0, num2 = 0; ss1 >> num1; ss2 >> num2;
