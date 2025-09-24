@@ -231,6 +231,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0126-word-ladder-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0257-binary-tree-paths](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0257-binary-tree-paths) |
 | [0516-longest-palindromic-subsequence](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0583-delete-operation-for-two-strings) |
@@ -277,6 +278,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0127-word-ladder) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0217-contains-duplicate) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -456,6 +458,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0062-unique-paths](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0342-power-of-four) |
