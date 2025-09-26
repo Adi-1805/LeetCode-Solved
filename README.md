@@ -259,6 +259,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0222-count-complete-tree-nodes) |
+| [0611-valid-triangle-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0611-valid-triangle-number) |
 | [1753-path-with-minimum-effort](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1753-path-with-minimum-effort) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3791-fruits-into-baskets-iii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3791-fruits-into-baskets-iii) |
@@ -342,6 +343,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0498-diagonal-traverse](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0542-01-matrix) |
+| [0611-valid-triangle-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0679-24-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0733-flood-fill) |
@@ -438,6 +440,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0165-compare-version-numbers) |
+| [0611-valid-triangle-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Heap (Priority Queue)
 |  |
@@ -481,6 +484,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0217-contains-duplicate) |
+| [0611-valid-triangle-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0900-reordered-power-of-2) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
@@ -508,6 +512,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0044-wildcard-matching](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0611-valid-triangle-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0611-valid-triangle-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1448-maximum-69-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1448-maximum-69-number) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
