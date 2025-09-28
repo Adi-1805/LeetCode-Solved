@@ -353,6 +353,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0932-monotonic-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0932-monotonic-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0940-fruit-into-baskets) |
+| [1018-largest-perimeter-triangle](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1073-number-of-enclaves) |
@@ -473,6 +474,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0867-new-21-game](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0909-stone-game) |
+| [1018-largest-perimeter-triangle](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1018-largest-perimeter-triangle) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1448-maximum-69-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -488,6 +490,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0217-contains-duplicate](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0217-contains-duplicate) |
 | [0611-valid-triangle-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [2689-rearranging-fruits](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2689-rearranging-fruits) |
@@ -516,6 +519,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0611-valid-triangle-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0611-valid-triangle-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1018-largest-perimeter-triangle](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1448-maximum-69-number) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1818-maximum-score-from-removing-substrings) |
