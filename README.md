@@ -278,6 +278,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0127-word-ladder) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0166-fraction-to-recurring-decimal) |
@@ -328,6 +329,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -389,6 +391,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0130-surrounded-regions) |
 | [0498-diagonal-traverse](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0542-01-matrix) |
