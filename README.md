@@ -330,6 +330,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0031-next-permutation](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0073-set-matrix-zeroes) |
@@ -502,6 +503,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0217-contains-duplicate) |
 | [0611-valid-triangle-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0611-valid-triangle-number) |
