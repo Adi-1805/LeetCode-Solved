@@ -4,8 +4,8 @@ public:
         int totalDrinks = numBottles;
         // The answer is clearly: (initial number of bottles) + (how many can be exchanged given the increment in NumExchange)
         while(numBottles >= numExchange){
-            int netDecrementInBottlesAfterExchange = numExchange - 1;
-            numBottles -= (netDecrementInBottlesAfterExchange); numExchange++; totalDrinks++;
+            int netDecreaseInBottlesAfterExchange = numExchange - 1;
+            numBottles -= (netDecreaseInBottlesAfterExchange); numExchange++; totalDrinks++;
         }
         return totalDrinks;
     }
