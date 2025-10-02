@@ -19,6 +19,7 @@ public:
         }
 
         for(int j = n-1; j >= 1; j--){
+            // if we put equal sign here (>=) it will fail for dupilcates because that'll cause pivot to be == greaterThanPivot hence generating same permut
             if(nums[j] > nums[pivot]){
                 greaterThanPivot = j; break;
             }
