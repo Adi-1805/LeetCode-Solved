@@ -1,19 +1,12 @@
 class Solution {
 public:
     int maxBottlesDrunk(int numBottles, int numExchange) {
-        int filledBottles = numBottles, emptyBottles = 0, filledAfterExchange = 0, totalDrinks = 0;
-        while(filledBottles != 0){
-            totalDrinks += filledBottles;
-            emptyBottles = (emptyBottles + filledBottles);
-            filledBottles = 0;
-            
-            while(numExchange <= emptyBottles) {
-                emptyBottles = (emptyBottles - numExchange);
-                filledBottles += 1; 
-                numExchange++;
-            }
+        int totalDrinks = numBottles;
+        // The answer is clearly: (initial number of bottles) + (how many can be exchanged given the increment in NumExchange)
+        while(numBottles >= numExchange){
+            int netDecrementInBottlesAfterExchange = numExchange - 1;
+            numBottles -= (netDecrementInBottlesAfterExchange); numExchange++; totalDrinks++;
         }
-        
         return totalDrinks;
     }
 };
