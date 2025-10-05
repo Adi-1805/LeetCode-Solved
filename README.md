@@ -288,6 +288,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0126-word-ladder-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0127-word-ladder) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0217-contains-duplicate) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -348,6 +349,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0130-surrounded-regions) |
+| [0169-majority-element](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0213-house-robber-ii) |
@@ -520,6 +522,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0056-merge-intervals](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0217-contains-duplicate) |
 | [0611-valid-triangle-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0900-reordered-power-of-2) |
@@ -604,6 +607,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0169-majority-element) |
 | [0900-reordered-power-of-2](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0900-reordered-power-of-2) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -628,4 +632,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0830-largest-triangle-area) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
