@@ -6,7 +6,7 @@ public:
         unordered_map<int, int> mp;
         for(int i = 0; i < n; i++){
             mp[nums[i]]++;
-            if(mp[nums[i]] > floor(n/2)) majorElement = nums[i];
+            if(mp[nums[i]] > floor(n/2)) { majorElement = nums[i]; break; }
         }
         return majorElement;
     }
