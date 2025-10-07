@@ -11,7 +11,19 @@ class Solution {
     }
 public:
     int uniquePaths(int m, int n) {
-        vector<vector<int>> dp(m, vector<int>(n, -1));
-        return f(m, n, 0, 0, dp);
+        vector<vector<int>> dp(m, vector<int>(n, 0));
+
+        for(int row = m-1; row >= 0 ; row--){
+            for(int col = n-1; col >= 0; col--){
+                if(row == m-1 and col == n-1){ dp[row][col] = 1; continue; }
+                
+                int waysDown = 0, waysRight = 0;
+                if(row < m-1) waysDown  = dp[row+1][col];
+                if(col < n-1) waysRight = dp[row][col+1];
+
+                dp[row][col] = waysDown + waysRight;
+            }
+        }
+        return dp[0][0];
     }
 };
