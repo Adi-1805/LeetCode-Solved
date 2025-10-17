@@ -225,6 +225,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## String
 |  |
@@ -249,6 +250,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2470-removing-stars-from-a-string) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3797-design-spreadsheet](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
@@ -284,6 +286,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2529-range-product-queries-of-powers) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -650,4 +653,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0169-majority-element) |
+## Bitmask
+|  |
+| ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 <!---LeetCode Topics End-->
