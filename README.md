@@ -636,6 +636,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0237-delete-node-in-a-linked-list) |
 ## Game Theory
 |  |
 | ------- |
