@@ -610,6 +610,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0044-wildcard-matching](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0342-power-of-four) |
@@ -636,6 +637,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0206-reverse-linked-list](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0237-delete-node-in-a-linked-list) |
 ## Game Theory
 |  |
