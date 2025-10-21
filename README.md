@@ -298,6 +298,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0126-word-ladder-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0142-linked-list-cycle-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0217-contains-duplicate) |
@@ -486,6 +487,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0031-next-permutation](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0165-compare-version-numbers) |
 | [0287-find-the-duplicate-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0611-valid-triangle-number) |
@@ -640,6 +642,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0237-delete-node-in-a-linked-list) |
 ## Game Theory
