@@ -315,6 +315,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1813-maximum-erasure-value](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1813-maximum-erasure-value) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2023-design-movie-rental-system](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2023-design-movie-rental-system) |
+| [2169-simple-bank-system](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2689-rearranging-fruits](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2689-rearranging-fruits) |
@@ -405,6 +406,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1876-map-of-highest-peak](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1876-map-of-highest-peak) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2023-design-movie-rental-system](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2023-design-movie-rental-system) |
+| [2169-simple-bank-system](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2169-simple-bank-system) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -480,6 +482,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0173-binary-search-tree-iterator) |
 | [2023-design-movie-rental-system](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2023-design-movie-rental-system) |
+| [2169-simple-bank-system](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2169-simple-bank-system) |
 | [3678-design-task-manager](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3827-implement-router) |
@@ -571,6 +574,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1642-water-bottles) |
+| [2169-simple-bank-system](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2169-simple-bank-system) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2470-removing-stars-from-a-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2470-removing-stars-from-a-string) |
 | [3336-water-bottles-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3336-water-bottles-ii) |
