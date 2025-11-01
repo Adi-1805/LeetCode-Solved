@@ -503,6 +503,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0141-linked-list-cycle) |
@@ -675,6 +676,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0021-merge-two-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0141-linked-list-cycle) |
