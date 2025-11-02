@@ -530,6 +530,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0062-unique-paths) |
@@ -645,6 +646,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0050-powx-n) |
@@ -676,6 +678,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0021-merge-two-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0116-populating-next-right-pointers-in-each-node) |
