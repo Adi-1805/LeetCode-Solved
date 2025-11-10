@@ -24,6 +24,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1818-maximum-score-from-removing-substrings](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2470-removing-stars-from-a-string) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Tree
 |  |
 | ------- |
@@ -337,6 +338,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Union Find
@@ -452,6 +454,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
@@ -503,6 +506,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Design
 |  |
 | ------- |
@@ -642,6 +646,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2618-maximize-the-minimum-powered-city](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2689-rearranging-fruits](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Segment Tree
 |  |
 | ------- |
