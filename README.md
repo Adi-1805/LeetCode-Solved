@@ -214,6 +214,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0322-coin-change](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0322-coin-change) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0357-count-numbers-with-unique-digits) |
 | [0416-partition-equal-subset-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0518-coin-change-ii) |
@@ -249,6 +250,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0165-compare-version-numbers](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0257-binary-tree-paths](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0257-binary-tree-paths) |
+| [0474-ones-and-zeroes](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1170-shortest-common-supersequence) |
@@ -397,6 +399,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0322-coin-change](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0518-coin-change-ii) |
