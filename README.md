@@ -440,6 +440,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2529-range-product-queries-of-powers](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2689-rearranging-fruits](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2689-rearranging-fruits) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -582,6 +583,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3336-water-bottles-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3336-water-bottles-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Memoization
@@ -736,6 +738,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Geometry
 |  |
 | ------- |
