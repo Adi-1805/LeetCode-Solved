@@ -239,6 +239,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## String
 |  |
@@ -461,6 +462,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -655,6 +657,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1813-maximum-erasure-value](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -700,6 +703,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -765,6 +769,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3827-implement-router](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3827-implement-router) |
 ## Number Theory
 |  |
@@ -784,4 +789,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 <!---LeetCode Topics End-->
