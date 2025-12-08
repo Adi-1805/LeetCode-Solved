@@ -288,6 +288,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0287-find-the-duplicate-number) |
@@ -387,6 +388,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0063-unique-paths-ii) |
