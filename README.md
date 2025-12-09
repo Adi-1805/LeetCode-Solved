@@ -347,6 +347,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3242-count-elements-with-maximum-frequency](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3583-count-special-triplets](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -469,6 +470,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3583-count-special-triplets](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -755,6 +757,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3583-count-special-triplets](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3583-count-special-triplets) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
