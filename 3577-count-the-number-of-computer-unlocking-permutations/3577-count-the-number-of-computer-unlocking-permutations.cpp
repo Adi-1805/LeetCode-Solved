@@ -15,10 +15,9 @@ public:
     int countPermutations(vector<int>& complexity) {
         int n = complexity.size();
         int complex_0 = complexity[0];
-        for(int i = 1; i < n; i++){
-            if(complexity[i] == complex_0) return 0;
-        }
-        if(complex_0 != *min_element(complexity.begin(), complexity.end())) return 0;
+        // the complexity of the 0th computer should be unique minimum value
+        for(int i = 1; i < n; i++) if(complex_0 >= complexity[i]) return 0;
+        // if the former is true, the order of rest of the elements is arbitrary
         return factorial(n-1);
     }
 };
