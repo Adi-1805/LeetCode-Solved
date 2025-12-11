@@ -291,6 +291,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0033-search-in-rotated-sorted-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0300-longest-increasing-subsequence) |
@@ -405,6 +406,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0130-surrounded-regions) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0198-house-robber) |
