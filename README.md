@@ -471,6 +471,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2689-rearranging-fruits](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2689-rearranging-fruits) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -649,6 +650,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [2689-rearranging-fruits](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2689-rearranging-fruits) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3748-sort-matrix-by-diagonals) |
@@ -697,6 +699,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1818-maximum-score-from-removing-substrings](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2689-rearranging-fruits](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2689-rearranging-fruits) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
