@@ -270,6 +270,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2470-removing-stars-from-a-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -722,6 +723,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1590-make-sum-divisible-by-p) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
