@@ -346,6 +346,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0169-majority-element](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0217-contains-duplicate) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0840-magic-squares-in-grid](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0840-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0900-reordered-power-of-2](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0940-fruit-into-baskets) |
@@ -446,6 +447,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0733-flood-fill) |
 | [0830-largest-triangle-area](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0840-magic-squares-in-grid) |
 | [0881-loud-and-rich](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0881-loud-and-rich) |
 | [0909-stone-game](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0909-stone-game) |
 | [0932-monotonic-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0932-monotonic-array) |
@@ -524,6 +526,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0498-diagonal-traverse](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0733-flood-fill) |
+| [0840-magic-squares-in-grid](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0840-magic-squares-in-grid) |
 | [1036-rotting-oranges](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -626,6 +629,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0679-24-game](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0909-stone-game) |
