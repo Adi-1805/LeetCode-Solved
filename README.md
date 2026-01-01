@@ -421,6 +421,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0056-merge-intervals](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0075-sort-colors) |
@@ -632,6 +633,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0048-rotate-image](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0231-power-of-two) |
