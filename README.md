@@ -64,6 +64,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -111,6 +112,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1073-number-of-enclaves) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -159,6 +161,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -198,6 +201,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1073-number-of-enclaves) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
