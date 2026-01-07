@@ -67,6 +67,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1382-balance-a-binary-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2384-root-equals-sum-of-children) |
@@ -115,6 +116,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1382-balance-a-binary-search-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -164,6 +166,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1382-balance-a-binary-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2384-root-equals-sum-of-children) |
