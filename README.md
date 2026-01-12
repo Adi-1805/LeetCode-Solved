@@ -494,6 +494,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1073-number-of-enclaves](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1073-number-of-enclaves) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1266-minimum-time-visiting-all-points) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -675,6 +676,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0900-reordered-power-of-2](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0909-stone-game) |
 | [1018-largest-perimeter-triangle](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1018-largest-perimeter-triangle) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1390-four-divisors) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1448-maximum-69-number) |
@@ -873,6 +875,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1266-minimum-time-visiting-all-points) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Divide and Conquer
 |  |
