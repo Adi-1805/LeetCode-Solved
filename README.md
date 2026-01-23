@@ -519,6 +519,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1590-make-sum-divisible-by-p](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1590-make-sum-divisible-by-p) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1710-maximum-units-on-a-truck) |
 | [1753-path-with-minimum-effort](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1813-maximum-erasure-value) |
 | [1876-map-of-highest-peak](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1876-map-of-highest-peak) |
@@ -748,6 +749,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1094-car-pooling](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1094-car-pooling) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1710-maximum-units-on-a-truck](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1710-maximum-units-on-a-truck) |
 | [2402-meeting-rooms-iii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2402-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2689-rearranging-fruits) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -800,6 +802,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1448-maximum-69-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1448-maximum-69-number) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1710-maximum-units-on-a-truck) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1975-maximum-matrix-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1975-maximum-matrix-sum) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2618-maximize-the-minimum-powered-city) |
