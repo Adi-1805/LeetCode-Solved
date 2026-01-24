@@ -1,35 +1,25 @@
 class Solution {
 public:
     int minimumPairRemoval(std::vector<int>& nums) {
-        int count = 0;
-
-        while (nums.size() > 1) {
-            bool isAscending = true;
-            int minSum = std::numeric_limits<int>::max();
-            int targetIndex = -1;
-
-            for (size_t i = 0; i < nums.size() - 1; ++i) {
-                int sum = nums[i] + nums[i + 1];
-
-                if (nums[i] > nums[i + 1]) {
-                    isAscending = false;
+       int n = nums.size(), ops = 0;
+        bool increasing = 0;
+       while(!increasing){
+            if(is_sorted(nums.begin(), nums.end())){
+                increasing = 1;
+            }else{
+                int minsum = INT_MAX, ind = -1;
+                for(int i = 1; i < nums.size(); i++){
+                    int sum = nums[i-1] + nums[i];
+                    if(sum < minsum){
+                        minsum = sum;
+                        ind = i;
+                    }
                 }
-
-                if (sum < minSum) {
-                    minSum = sum;
-                    targetIndex = static_cast<int>(i);
-                }
+                ops++;
+                nums[ind -1] = minsum;
+                nums.erase(nums.begin()+ind);
             }
-
-            if (isAscending) {
-                break;
-            }
-
-            count++;
-            nums[targetIndex] = minSum;
-            nums.erase(nums.begin() + targetIndex + 1);
-        }
-
-        return count;
+       }
+       return ops;
     }
 };
