@@ -407,6 +407,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3583-count-special-triplets) |
@@ -558,6 +559,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3453-separate-squares-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3454-separate-squares-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -679,6 +681,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1753-path-with-minimum-effort](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1753-path-with-minimum-effort) |
 | [2023-design-movie-rental-system](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2023-design-movie-rental-system) |
 | [2402-meeting-rooms-iii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2402-meeting-rooms-iii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -777,6 +780,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2470-removing-stars-from-a-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2470-removing-stars-from-a-string) |
 | [3336-water-bottles-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3336-water-bottles-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Sliding Window
@@ -880,6 +884,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0731-my-calendar-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0732-my-calendar-iii) |
 | [2023-design-movie-rental-system](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2023-design-movie-rental-system) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3678-design-task-manager](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3678-design-task-manager) |
 | [3791-fruits-into-baskets-iii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3791-fruits-into-baskets-iii) |
@@ -914,6 +919,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0206-reverse-linked-list](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0237-delete-node-in-a-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Game Theory
 |  |
@@ -958,5 +964,6 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Doubly-Linked List
 |  |
 | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
