@@ -344,6 +344,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0729-my-calendar-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0732-my-calendar-iii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1753-path-with-minimum-effort](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1753-path-with-minimum-effort) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -494,6 +495,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0729-my-calendar-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0733-flood-fill) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0830-largest-triangle-area](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0840-magic-squares-in-grid) |
 | [0881-loud-and-rich](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0881-loud-and-rich) |
