@@ -582,6 +582,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3640-trionic-array-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -781,6 +782,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3748-sort-matrix-by-diagonals) |
 ## Combinatorics
@@ -819,6 +821,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Greedy
 |  |
