@@ -11,16 +11,20 @@
  */
 class Solution {
 public:
-    int checkBalance(TreeNode* root){
-        if (root == nullptr) return 0;
-        int lh = checkBalance(root->left);
-        int rh = checkBalance(root->right); 
-        if(lh == -1 or rh == -1) return -1;
-        if(abs(lh-rh)>1) return -1;
-        return 1 + max(lh, rh);
+    // maxDepth code for LeetCode 104, edited for finding Balanced BT
+    int checkBBT(TreeNode* root) {
+        if(root == NULL) return 0;
+
+        int leftSubTree = checkBBT(root -> left);
+        int rightSubTree = checkBBT(root -> right);
+        
+        if(leftSubTree == -1 || rightSubTree == -1) return -1;
+        if(abs(leftSubTree - rightSubTree) > 1) return -1;
+
+        return 1 + max(leftSubTree, rightSubTree);
     }
     bool isBalanced(TreeNode* root) {
-        return (checkBalance(root) != -1);
+        if (root == NULL) return true;
+        return (checkBBT(root) != -1) ? true : false;
     }
-
 };
