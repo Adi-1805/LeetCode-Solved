@@ -290,6 +290,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0044-wildcard-matching) |
+| [0067-add-binary](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0127-word-ladder) |
@@ -365,6 +366,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0287-find-the-duplicate-number) |
@@ -726,6 +728,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0050-powx-n](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0231-power-of-two) |
@@ -800,6 +803,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0498-diagonal-traverse) |
 | [1094-car-pooling](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1094-car-pooling) |
 | [1642-water-bottles](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1642-water-bottles) |
