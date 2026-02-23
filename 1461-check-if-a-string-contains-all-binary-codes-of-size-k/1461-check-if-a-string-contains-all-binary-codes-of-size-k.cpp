@@ -7,6 +7,6 @@ public:
             string temp = s.substr(i, k);
             st.insert(temp);
         }
-        return st.size() == pow(2, k);
+        return st.size() == (1<<k);
     }
 };
