@@ -6,7 +6,7 @@ public:
         int prod = 1, ans = 0;
         while(r < n){
             prod *= nums[r];
-            while(prod >= k and l < n and nums[l] <= prod){
+            while(prod >= k and l < n and nums[l] < prod){
                 prod /= nums[l]; l++;
             }
             if(prod < k) ans += (r-l+1);
