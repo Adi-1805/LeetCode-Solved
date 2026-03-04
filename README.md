@@ -545,6 +545,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1590-make-sum-divisible-by-p) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1710-maximum-units-on-a-truck) |
@@ -635,6 +636,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1171-shortest-path-in-binary-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1876-map-of-highest-peak) |
 | [1895-largest-magic-square](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1895-largest-magic-square) |
