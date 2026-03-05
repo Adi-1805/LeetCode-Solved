@@ -616,6 +616,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3797-design-spreadsheet](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 | [3863-power-grid-maintenance](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
@@ -992,6 +993,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2618-maximize-the-minimum-powered-city](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3827-implement-router](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3827-implement-router) |
+| [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 ## Number Theory
 |  |
 | ------- |
@@ -1020,6 +1022,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 ## Line Sweep
 |  |
 | ------- |
