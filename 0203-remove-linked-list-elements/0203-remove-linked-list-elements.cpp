@@ -9,19 +9,15 @@
  * };
  */
 class Solution {
+    ListNode* recur(ListNode* head, int val){
+        if(head == NULL) return NULL;
+        head -> next = removeElements(head -> next, val);
+        return (head -> val == val) ? head -> next : head;
+    }
 public:
     ListNode* removeElements(ListNode* head, int val) {
-        if(head == NULL) return NULL;
-        ListNode* dummy_head = new ListNode(0);
-        ListNode* prev = dummy_head; prev -> next = head;
-        ListNode* temp = head;
-        while(temp != NULL){
-            if(temp -> val == val){
-                prev -> next = temp -> next; 
-            }
-            else prev = prev -> next;
-            temp = temp -> next;
-        }
-        return dummy_head -> next;
+        ListNode* dummy_head = new ListNode(0); 
+        dummy_head -> next = head;
+        return recur(dummy_head -> next, val);
     }
 };
