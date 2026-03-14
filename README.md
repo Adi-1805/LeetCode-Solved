@@ -312,6 +312,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -344,6 +345,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0357-count-numbers-with-unique-digits](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0679-24-game) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Binary Search
 |  |
