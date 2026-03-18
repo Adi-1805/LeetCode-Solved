@@ -510,6 +510,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0198-house-robber](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0304-range-sum-query-2d-immutable) |
@@ -917,6 +918,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0304-range-sum-query-2d-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0731-my-calendar-ii) |
