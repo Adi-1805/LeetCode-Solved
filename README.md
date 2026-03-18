@@ -512,6 +512,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0217-contains-duplicate](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0300-longest-increasing-subsequence) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0304-range-sum-query-2d-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0416-partition-equal-subset-sum) |
@@ -638,6 +639,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0073-set-matrix-zeroes](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0130-surrounded-regions) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0304-range-sum-query-2d-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0542-01-matrix) |
@@ -693,6 +695,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0173-binary-search-tree-iterator) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0304-range-sum-query-2d-immutable) |
 | [0729-my-calendar-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0732-my-calendar-iii) |
@@ -912,6 +915,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0304-range-sum-query-2d-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0732-my-calendar-iii) |
