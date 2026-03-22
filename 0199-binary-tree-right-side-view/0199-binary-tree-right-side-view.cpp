@@ -10,17 +10,30 @@
  * };
  */
 class Solution {
-    vector<int> ans;
-    // REVERSE PREORDER: Root -> Right -> Left
-    void reverse_preorder(TreeNode* root, int level){
-        if(root == NULL) return;
-        if(level == ans.size()) ans.push_back(root->val); // for each level there will be one value added to ans, hence this will ensure that for each level the first node traversed is pushed in ans
-        reverse_preorder(root->right, level+1);
-        reverse_preorder(root->left, level+1); 
-    }
 public:
     vector<int> rightSideView(TreeNode* root) {
-        reverse_preorder(root, 0);
-        return ans;
+        if(root == NULL) return {};
+        
+        queue <pair<TreeNode*, int>> q; q.push({root, 0});
+        map<int, TreeNode*> mp;  mp[0] = root; 
+       
+        while(!q.empty()){
+            auto [curNode, lvl] = q.front();
+            q.pop();
+
+            mp[lvl] = curNode;
+
+            if(curNode -> left != NULL){
+                q.push({curNode->left, lvl+1});
+            }
+            if(curNode -> right != NULL){
+                q.push({curNode->right, lvl+1});
+            }   
+        }
+        vector<int> result;
+        for(auto it: mp){
+            result.push_back(it.second->val);
+        }
+        return result;
     }
 };
