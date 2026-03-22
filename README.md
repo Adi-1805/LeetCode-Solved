@@ -219,6 +219,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1073-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -560,6 +561,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1036-rotting-oranges](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1073-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1094-car-pooling) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -665,6 +667,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0840-magic-squares-in-grid](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0840-magic-squares-in-grid) |
 | [1036-rotting-oranges](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1073-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1402-count-square-submatrices-with-all-ones) |
