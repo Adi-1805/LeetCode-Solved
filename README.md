@@ -297,6 +297,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3640-trionic-array-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## String
 |  |
 | ------- |
@@ -391,6 +392,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3791-fruits-into-baskets-iii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3827-implement-router) |
 ## Bit Manipulation
@@ -646,6 +648,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3640-trionic-array-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3643-flip-square-submatrix-vertically) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3721-longest-balanced-subarray-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3748-sort-matrix-by-diagonals) |
@@ -865,6 +868,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3748-sort-matrix-by-diagonals) |
 ## Combinatorics
 |  |
