@@ -289,6 +289,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2463-minimum-total-distance-traveled](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2463-minimum-total-distance-traveled) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -608,6 +609,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2432-number-of-zero-filled-subarrays](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2446-determine-if-two-events-have-conflict) |
+| [2463-minimum-total-distance-traveled](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2463-minimum-total-distance-traveled) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -868,6 +870,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1710-maximum-units-on-a-truck](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1710-maximum-units-on-a-truck) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2402-meeting-rooms-iii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2402-meeting-rooms-iii) |
+| [2463-minimum-total-distance-traveled](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2463-minimum-total-distance-traveled) |
 | [2689-rearranging-fruits](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2689-rearranging-fruits) |
 | [2751-robot-collisions](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2751-robot-collisions) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2943-maximize-area-of-square-hole-in-grid) |
