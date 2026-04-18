@@ -431,6 +431,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0127-word-ladder](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0217-contains-duplicate) |
@@ -746,6 +747,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0173-binary-search-tree-iterator) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0304-range-sum-query-2d-immutable) |
 | [0729-my-calendar-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0729-my-calendar-i) |
@@ -1065,6 +1067,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0234-palindrome-linked-list) |
@@ -1122,6 +1125,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0146-lru-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Graph Theory
