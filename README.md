@@ -299,6 +299,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3640-trionic-array-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3742-maximum-path-score-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -667,6 +668,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3721-longest-balanced-subarray-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -713,6 +715,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3643-flip-square-submatrix-vertically) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3797-design-spreadsheet) |
 ## Topological Sort
