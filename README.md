@@ -233,6 +233,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1876-map-of-highest-peak](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1876-map-of-highest-peak) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2793-count-the-number-of-complete-components](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2793-count-the-number-of-complete-components) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3863-power-grid-maintenance](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3863-power-grid-maintenance) |
 ## Dynamic Programming
 |  |
@@ -471,6 +472,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3678-design-task-manager](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3678-design-task-manager) |
 | [3719-longest-balanced-subarray-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3721-longest-balanced-subarray-ii) |
@@ -658,6 +660,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3640-trionic-array-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3640-trionic-array-ii) |
@@ -858,6 +861,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Memoization
 |  |
 | ------- |
@@ -1099,6 +1103,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Geometry
 |  |
 | ------- |
