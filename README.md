@@ -394,6 +394,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1753-path-with-minimum-effort](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1753-path-with-minimum-effort) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2540-minimum-common-value](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2540-minimum-common-value) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3453-separate-squares-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3454-separate-squares-ii) |
@@ -461,6 +462,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2174-next-greater-numerically-balanced-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2402-meeting-rooms-iii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2402-meeting-rooms-iii) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2540-minimum-common-value](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2540-minimum-common-value) |
 | [2689-rearranging-fruits](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2689-rearranging-fruits) |
 | [2784-check-if-array-is-good](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2784-check-if-array-is-good) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -627,6 +629,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-range-product-queries-of-powers](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2529-range-product-queries-of-powers) |
+| [2540-minimum-common-value](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2540-minimum-common-value) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2689-rearranging-fruits](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2689-rearranging-fruits) |
 | [2751-robot-collisions](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2751-robot-collisions) |
@@ -796,6 +799,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0287-find-the-duplicate-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2540-minimum-common-value](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3643-flip-square-submatrix-vertically) |
 ## Heap (Priority Queue)
 |  |
