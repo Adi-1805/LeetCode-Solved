@@ -846,6 +846,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0231-power-of-two](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0263-ugly-number) |
+| [0319-bulb-switcher](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0357-count-numbers-with-unique-digits) |
@@ -1048,6 +1049,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0319-bulb-switcher) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Recursion
