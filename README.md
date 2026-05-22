@@ -844,6 +844,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0070-climbing-stairs](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0357-count-numbers-with-unique-digits) |
