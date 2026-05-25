@@ -280,6 +280,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1250-longest-common-subsequence) |
+| [1340-jump-game-v](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1340-jump-game-v) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -596,6 +597,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1200-minimum-absolute-difference](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1340-jump-game-v](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -902,6 +904,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1094-car-pooling](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1094-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1200-minimum-absolute-difference) |
+| [1340-jump-game-v](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
