@@ -242,6 +242,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0022-generate-parentheses](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0064-minimum-path-sum) |
@@ -529,6 +530,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0039-combination-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0064-minimum-path-sum) |
@@ -978,6 +980,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0611-valid-triangle-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0611-valid-triangle-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
