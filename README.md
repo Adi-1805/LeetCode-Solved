@@ -125,6 +125,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1306-jump-game-iii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1306-jump-game-iii) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -225,6 +226,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1306-jump-game-iii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1306-jump-game-iii) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -603,6 +605,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1200-minimum-absolute-difference](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1306-jump-game-iii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1390-four-divisors) |
