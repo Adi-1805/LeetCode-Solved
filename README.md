@@ -675,6 +675,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3379-transformed-array) |
@@ -897,6 +898,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
