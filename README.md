@@ -639,6 +639,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2013-detect-squares](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2013-detect-squares) |
 | [2023-design-movie-rental-system](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2023-design-movie-rental-system) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2169-simple-bank-system](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2169-simple-bank-system) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -932,6 +933,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1710-maximum-units-on-a-truck](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1710-maximum-units-on-a-truck) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2402-meeting-rooms-iii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2402-meeting-rooms-iii) |
 | [2463-minimum-total-distance-traveled](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2463-minimum-total-distance-traveled) |
 | [2689-rearranging-fruits](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2689-rearranging-fruits) |
@@ -1016,6 +1018,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1710-maximum-units-on-a-truck](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1710-maximum-units-on-a-truck) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1975-maximum-matrix-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1975-maximum-matrix-sum) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2689-rearranging-fruits](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2689-rearranging-fruits) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3075-maximize-happiness-of-selected-children) |
