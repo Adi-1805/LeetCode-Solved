@@ -414,6 +414,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3791-fruits-into-baskets-iii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3791-fruits-into-baskets-iii) |
@@ -702,6 +703,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3625-count-number-of-trapezoids-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3640-trionic-array-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3643-flip-square-submatrix-vertically) |
@@ -831,6 +833,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0611-valid-triangle-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2540-minimum-common-value](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2540-minimum-common-value) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3643-flip-square-submatrix-vertically) |
 ## Heap (Priority Queue)
 |  |
@@ -945,6 +948,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3748-sort-matrix-by-diagonals) |
@@ -1026,6 +1030,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3474-lexicographically-smallest-generated-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Segment Tree
