@@ -244,6 +244,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0045-jump-game-ii) |
@@ -318,6 +319,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0067-add-binary) |
@@ -1109,6 +1111,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0050-powx-n) |
