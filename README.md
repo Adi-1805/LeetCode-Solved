@@ -80,6 +80,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2384-root-equals-sum-of-children](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2384-root-equals-sum-of-children) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -137,6 +138,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2793-count-the-number-of-complete-components](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2793-count-the-number-of-complete-components) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3863-power-grid-maintenance](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
@@ -307,6 +309,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3640-trionic-array-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -449,6 +452,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -701,6 +705,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3454-separate-squares-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -919,6 +924,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3625-count-number-of-trapezoids-ii) |
