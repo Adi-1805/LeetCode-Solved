@@ -376,6 +376,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3474-lexicographically-smallest-generated-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3797-design-spreadsheet](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3797-design-spreadsheet) |
+| [3838-weighted-word-mapping](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
 |  |
@@ -742,6 +743,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3827-implement-router](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
+| [3838-weighted-word-mapping](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3838-weighted-word-mapping) |
 | [3863-power-grid-maintenance](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
@@ -1005,6 +1007,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3838-weighted-word-mapping](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
 | ------- |
