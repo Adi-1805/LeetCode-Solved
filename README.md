@@ -385,6 +385,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0022-generate-parentheses](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0039-combination-sum) |
+| [0089-gray-code](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0126-word-ladder-ii) |
@@ -435,6 +436,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0222-count-complete-tree-nodes) |
@@ -895,6 +897,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0066-plus-one](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0258-add-digits) |
