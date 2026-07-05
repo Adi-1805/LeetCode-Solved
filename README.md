@@ -294,6 +294,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1250-longest-common-subsequence) |
+| [1301-number-of-paths-with-max-score](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1340-jump-game-v) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -635,6 +636,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1200-minimum-absolute-difference](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1301-number-of-paths-with-max-score](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1345-jump-game-iv) |
@@ -776,6 +778,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1091-shortest-path-in-binary-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1301-number-of-paths-with-max-score](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1301-number-of-paths-with-max-score) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1753-path-with-minimum-effort) |
