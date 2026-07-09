@@ -430,6 +430,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3161-block-placement-queries](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3161-block-placement-queries) |
 | [3453-separate-squares-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3454-separate-squares-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -514,6 +515,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -721,6 +723,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3454-separate-squares-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -1277,6 +1280,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Trie
@@ -1298,6 +1302,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
