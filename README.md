@@ -493,6 +493,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1331-rank-transform-of-an-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -648,6 +649,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -990,6 +992,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1094-car-pooling](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1094-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
