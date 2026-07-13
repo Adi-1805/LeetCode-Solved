@@ -570,6 +570,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0039-combination-sum) |
@@ -870,6 +871,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0075-sort-colors) |
@@ -981,6 +983,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0169-majority-element) |
