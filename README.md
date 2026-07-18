@@ -674,6 +674,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1914-cyclically-rotating-a-grid](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1914-cyclically-rotating-a-grid) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1975-maximum-matrix-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1975-maximum-matrix-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2013-detect-squares](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2013-detect-squares) |
 | [2023-design-movie-rental-system](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2023-design-movie-rental-system) |
@@ -956,6 +957,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1642-water-bottles](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1925-count-square-sum-triples) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -1251,6 +1253,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
