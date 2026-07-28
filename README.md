@@ -384,6 +384,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3612-process-string-with-special-operations-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3797-design-spreadsheet](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3797-design-spreadsheet) |
@@ -1023,6 +1024,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -1353,4 +1355,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3161-block-placement-queries) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
