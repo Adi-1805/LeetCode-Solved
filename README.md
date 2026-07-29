@@ -21,6 +21,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0234-palindrome-linked-list](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0234-palindrome-linked-list) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -347,6 +348,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0657-robot-return-to-origin](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0657-robot-return-to-origin) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0944-delete-columns-to-make-sorted) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1170-shortest-common-supersequence](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -854,6 +856,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Design
@@ -1103,6 +1106,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0611-valid-triangle-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0611-valid-triangle-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1018-largest-perimeter-triangle](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1018-largest-perimeter-triangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1448-maximum-69-number) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
