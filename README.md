@@ -785,6 +785,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 | [3838-weighted-word-mapping](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3838-weighted-word-mapping) |
 | [3863-power-grid-maintenance](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3863-power-grid-maintenance) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -902,6 +903,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3643-flip-square-submatrix-vertically) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -993,6 +995,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
 |  |
 | ------- |
@@ -1040,6 +1043,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3748-sort-matrix-by-diagonals) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1074,6 +1078,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3838-weighted-word-mapping](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1281,6 +1286,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Geometry
 |  |
 | ------- |
