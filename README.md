@@ -378,6 +378,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -978,6 +979,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2432-number-of-zero-filled-subarrays](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3336-water-bottles-ii) |
@@ -1124,6 +1126,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2689-rearranging-fruits](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2689-rearranging-fruits) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3474-lexicographically-smallest-generated-string) |
