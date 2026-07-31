@@ -379,6 +379,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -522,6 +523,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2784-check-if-array-is-good](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2784-check-if-array-is-good) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -1034,6 +1036,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2784-check-if-array-is-good](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2784-check-if-array-is-good) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1127,6 +1130,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2618-maximize-the-minimum-powered-city](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2689-rearranging-fruits](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2689-rearranging-fruits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -1244,6 +1248,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0900-reordered-power-of-2](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0900-reordered-power-of-2) |
 | [2013-detect-squares](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2013-detect-squares) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
