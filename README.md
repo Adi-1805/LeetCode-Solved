@@ -281,6 +281,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0396-rotate-function](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0518-coin-change-ii) |
@@ -623,6 +624,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0417-pacific-atlantic-water-flow](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0518-coin-change-ii) |
@@ -956,6 +958,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0357-count-numbers-with-unique-digits](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0486-predict-the-winner) |
 | [0679-24-game](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0830-largest-triangle-area) |
@@ -1222,6 +1225,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0234-palindrome-linked-list](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0486-predict-the-winner) |
 | [0894-all-possible-full-binary-trees](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0894-all-possible-full-binary-trees) |
 ## Ordered Set
 |  |
@@ -1276,6 +1280,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0909-stone-game) |
 ## Queue
 |  |
