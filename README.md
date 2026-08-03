@@ -301,6 +301,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1301-number-of-paths-with-max-score](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1340-jump-game-v) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1406-stone-game-iii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -670,6 +671,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1406-stone-game-iii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1406-stone-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -970,6 +972,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1266-minimum-time-visiting-all-points](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1406-stone-game-iii) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -1282,6 +1285,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0486-predict-the-winner](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0909-stone-game) |
+| [1406-stone-game-iii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1406-stone-game-iii) |
 ## Queue
 |  |
 | ------- |
@@ -1387,4 +1391,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
