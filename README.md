@@ -320,6 +320,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -390,6 +391,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -911,6 +913,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2540-minimum-common-value) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3643-flip-square-submatrix-vertically) |
@@ -1144,6 +1147,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
