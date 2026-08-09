@@ -298,6 +298,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0909-stone-game](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0909-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1140-stone-game-ii) |
 | [1170-shortest-common-supersequence](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1250-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1301-number-of-paths-with-max-score) |
@@ -663,6 +664,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1091-shortest-path-in-binary-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1094-car-pooling) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1140-stone-game-ii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1266-minimum-time-visiting-all-points) |
@@ -976,6 +978,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0900-reordered-power-of-2](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0909-stone-game) |
 | [1018-largest-perimeter-triangle](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1018-largest-perimeter-triangle) |
+| [1140-stone-game-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1390-four-divisors) |
@@ -1193,6 +1196,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0731-my-calendar-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0732-my-calendar-iii) |
 | [1094-car-pooling](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1094-car-pooling) |
+| [1140-stone-game-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1732-find-the-highest-altitude) |
@@ -1294,6 +1298,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0486-predict-the-winner](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0909-stone-game) |
+| [1140-stone-game-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1406-stone-game-iii) |
 ## Queue
 |  |
@@ -1404,9 +1409,11 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
