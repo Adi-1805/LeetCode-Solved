@@ -528,6 +528,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2689-rearranging-fruits](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2689-rearranging-fruits) |
 | [2784-check-if-array-is-good](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2784-check-if-array-is-good) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -729,6 +730,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2784-check-if-array-is-good](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2784-check-if-array-is-good) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -1115,6 +1117,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Adi-1805/LeetCode-Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
