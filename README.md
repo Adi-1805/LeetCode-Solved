@@ -539,6 +539,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -759,6 +760,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3453-separate-squares-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3454-separate-squares-ii) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Adi-1805/LeetCode-Solved/tree/master/3513-number-of-unique-xor-triplets-i) |
