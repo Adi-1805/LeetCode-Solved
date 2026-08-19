@@ -472,6 +472,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0934-bitwise-ors-of-subarrays](https://github.com/Adi-1805/LeetCode-Solved/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1009-complement-of-base-10-integer](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1386-cinema-seat-allocation](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1386-cinema-seat-allocation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -514,6 +515,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1345-jump-game-iv](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1590-make-sum-divisible-by-p) |
 | [1813-maximum-erasure-value](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1813-maximum-erasure-value) |
@@ -680,6 +682,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1340-jump-game-v](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1386-cinema-seat-allocation](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1406-stone-game-iii](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1406-stone-game-iii) |
@@ -1145,6 +1148,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1018-largest-perimeter-triangle](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1018-largest-perimeter-triangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1382-balance-a-binary-search-tree) |
+| [1386-cinema-seat-allocation](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1386-cinema-seat-allocation) |
 | [1448-maximum-69-number](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1448-maximum-69-number) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Adi-1805/LeetCode-Solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
